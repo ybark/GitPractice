@@ -7,5 +7,7 @@ public class Cay {
 
         System.out.println("Agalar kahve de icelim");
 
+        System.out.println(" Sahlep de var uyar mi");
+
     }
 }
