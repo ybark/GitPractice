@@ -5,9 +5,11 @@ public class Cay {
 
         System.out.println("sekerli cay icelim");
         System.out.println("Agalar kahve de icelim");
+
         System.out.println("Kahve sade olsun pliiiiiiiizzz");
 
         System.out.println(" Sahlep de var uyar mi");
 
+        System.out.println("Aga da calisiyor ...");
     }
 }
